@@ -8,7 +8,7 @@ buildscript {
   }
 }
 
-group = "com.hantasmate.iris"
+group = "com.hantasmate.yoga"
 version = "0.1.0"
 
 allprojects {

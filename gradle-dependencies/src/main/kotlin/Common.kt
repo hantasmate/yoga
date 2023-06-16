@@ -152,19 +152,16 @@ object Common {
     version = Version.junit
   )
   val junitJupiterApi = create(
-    group = "org.junit",
+    group = "org.junit.jupiter",
     name = "junit-jupiter-api",
-    version = Version.junit
   )
   val junitJupiterEngine = create(
-    group = "org.junit",
+    group = "org.junit.jupiter",
     name = "junit-jupiter-engine",
-    version = Version.junit
   )
   val junitPlatformEngine = create(
-    group = "org.junit",
+    group = "org.junit.platform",
     name = "junit-platform-engine",
-    version = Version.junit
   )
   val mockitoBom = create(
     group = "org.mockito",
